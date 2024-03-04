@@ -16,7 +16,7 @@
 }
 body{
     background-color: var(--background-color);
-    height : 2000px;
+    overflow : hidden;
 }
 img{
     width: 100%;   
