@@ -16,6 +16,7 @@
 }
 body{
     background-color: var(--background-color);
+    height 2000px
 }
 img{
     width: 100%;   
